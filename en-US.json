@@ -6,9 +6,14 @@
   "ENMITY_DEBUG_LOGS": "Debug Logs",
   "ENMITY_SEARCH_PLUGINS": "Search plugins...",
   "ENMITY_SEARCH_THEMES": "Search themes...",
+  "ENMITY_SEARCH_ASSETS": "Search assets...",
   "ENMITY_DEVELOPMENT_SETTINGS": "Development Settings",
   "ENMITY_DEBUG_BRIDGE_IP": "Debug IP",
   "ENMITY_DEBUG_BRIDGE_CONNECT": "Connect to the debug bridge on startup",
   "ENMITY_DEBUG_BRIDGE": "Debug Bridge",
-  "ENMITY_TOAST_SETTINGS": "Toast Settings"
+  "ENMITY_TOAST_SETTINGS": "Toast Settings",
+  "ENMITY_ASSET_BROWSER": "Asset Browser",
+  "ENMITY_ADDON_NO_DESCRIPTION": "No description provided.",
+  "ENMITY_INSTALL": "Install",
+  "ENMITY_INSTALL_TITLE": "Install {type}"
 }
