@@ -15,5 +15,6 @@
   "ENMITY_ASSET_BROWSER": "Asset Browser",
   "ENMITY_ADDON_NO_DESCRIPTION": "No description provided.",
   "ENMITY_INSTALL": "Install",
-  "ENMITY_INSTALL_TITLE": "Install {type}"
+  "ENMITY_INSTALL_TITLE": "Install {type}",
+  "ENMITY_ADDON_FAILED": "Failed to load addon: {error}"
 }
