@@ -16,5 +16,9 @@
   "ENMITY_ADDON_NO_DESCRIPTION": "No description provided.",
   "ENMITY_INSTALL": "Install",
   "ENMITY_INSTALL_TITLE": "Install {type}",
-  "ENMITY_ADDON_FAILED": "Failed to load addon: {error}"
+  "ENMITY_ADDON_FAILED": "Failed to load addon: {error}",
+  "ENMITY_THEME_GET_DESC": "Would you like to create a theme, or import one?",
+  "ENMITY_THEME_GET_OPTION_CREATE": "Create",
+  "ENMITY_THEME_GET_OPTION_IMPORT": "Import",
+  "ENMITY_THEME_EDITOR": "Theme Editor"
 }
