@@ -15,6 +15,7 @@
   "ENMITY_INSTALL": "Install",
   "ENMITY_INSTALL_TITLE": "Install {type}",
   "ENMITY_MISC": "Misc",
+  "ENMITY_MODULE_SETTINGS": "Module Settings",
   "ENMITY_PLUGINS": "Plugins",
   "ENMITY_RECOVERY_MODE": "Recovery Mode",
   "ENMITY_RECOVERY_MODE_DESC": "Avoids loading addons to prevent crashing.",
