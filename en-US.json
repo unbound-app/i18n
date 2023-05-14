@@ -33,7 +33,7 @@
 	"UNBOUND_SEARCH_ASSETS": "Search assets...",
 	"UNBOUND_SEARCH_PLUGINS": "Search plugins...",
 	"UNBOUND_SEARCH_THEMES": "Search themes...",
-	"UNBOUND_STATS": "Stats",
+	"UNBOUND_INFO": "Info",
 	"UNBOUND_THEME_EDITOR": "Theme Editor",
 	"UNBOUND_THEME_GET_DESC": "Would you like to create a theme, or import one?",
 	"UNBOUND_THEME_GET_OPTION_CREATE": "Create",
