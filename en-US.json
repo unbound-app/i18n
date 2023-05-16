@@ -48,5 +48,6 @@
 	"UNBOUND_UNINSTALL_ADDON_DESC": "Are you sure you want to uninstall **{name}**? This action is irreversible.",
 	"UNBOUND_UNINSTALL_ADDON": "Uninstall {type}",
 	"UNBOUND_UNINSTALL": "Uninstall",
-	"UNBOUND_UPDATER": "Updater"
+	"UNBOUND_UPDATER": "Updater",
+	"UNBOUND_LOGS_EMPTY": "There are no logs at the moment.\nPlease come back later."
 }
