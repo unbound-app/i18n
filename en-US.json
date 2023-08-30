@@ -76,5 +76,11 @@
 	"UNBOUND_UNINSTALL_ADDON": "Uninstall {type}",
 	"UNBOUND_UNINSTALL": "Uninstall",
 	"UNBOUND_UPDATER": "Updater",
-	"UNBOUND_LOGS_EMPTY": "There are no logs at the moment.\nPlease come back later."
+	"UNBOUND_LOGS_EMPTY": "There are no logs at the moment.\nPlease come back later.",
+    "UNBOUND_MANAGE_ICONS": "Manage Icons",
+    "UNBOUND_DEFAULT_PACKS": "Default Packs",
+    "UNBOUND_PACK_NOT_INSTALLED_TITLE": "Pack not installed",
+    "UNBOUND_PACK_NOT_INSTALLED_DESC": "The pack you selected is not installed. Icons will be fetched externally, resulting in a poorer experience. Please install the icon pack to refrain from needing to download each asset as it's needed.",
+    "UNBOUND_DOWNLOAD_PACK_FETCHING": "Fetching...",
+    "UNBOUND_DOWNLOAD_PACK_ITEM": "{current} of {total}"
 }
