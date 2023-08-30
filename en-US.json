@@ -82,5 +82,6 @@
     "UNBOUND_PACK_NOT_INSTALLED_TITLE": "Pack not installed",
     "UNBOUND_PACK_NOT_INSTALLED_DESC": "The pack you selected is not installed. Icons will be fetched externally, resulting in a poorer experience. Please install the icon pack to refrain from needing to download each asset as it's needed.",
     "UNBOUND_DOWNLOAD_PACK_FETCHING": "Fetching...",
-    "UNBOUND_DOWNLOAD_PACK_ITEM": "{current} of {total}"
+    "UNBOUND_DOWNLOAD_PACK_ITEM": "{current} of {total}",
+    "UNBOUND_DOWNLOAD_PACK_DONE": "Finished!"
 }
