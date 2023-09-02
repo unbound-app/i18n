@@ -80,8 +80,10 @@
     "UNBOUND_MANAGE_ICONS": "Manage Icons",
     "UNBOUND_DEFAULT_PACKS": "Default Packs",
     "UNBOUND_PACK_NOT_INSTALLED_TITLE": "Pack not installed",
-    "UNBOUND_PACK_NOT_INSTALLED_DESC": "The pack you selected is not installed. Icons will be fetched externally, resulting in a poorer experience. Please install the icon pack to refrain from needing to download each asset as it's needed.",
+    "UNBOUND_PACK_NOT_INSTALLED_DESC": "The selected icon pack {pack} is not installed. To modify Discord's icons, please download and install the pack. Icons will remain unchanged until the selected pack is installed.",
     "UNBOUND_DOWNLOAD_PACK_FETCHING": "Fetching...",
     "UNBOUND_DOWNLOAD_PACK_ITEM": "{current} of {total}",
-    "UNBOUND_DOWNLOAD_PACK_DONE": "Finished!"
+    "UNBOUND_DOWNLOAD_PACK_DONE": "Finished!",
+    "UNBOUND_PACK_APPLYING_TITLE": "Icon Pack",
+    "UNBOUND_PACK_APPLYING_DESC": "Attempting to apply pack {pack}..."
 }
