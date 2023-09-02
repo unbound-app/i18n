@@ -85,5 +85,5 @@
     "UNBOUND_DOWNLOAD_PACK_ITEM": "{current} of {total}",
     "UNBOUND_DOWNLOAD_PACK_DONE": "Finished!",
     "UNBOUND_PACK_APPLYING_TITLE": "Icon Pack",
-    "UNBOUND_PACK_APPLYING_DESC": "Attempting to apply pack {pack}..."
+    "UNBOUND_PACK_APPLYING_DESC": "Applying pack {pack}..."
 }
