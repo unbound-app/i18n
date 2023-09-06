@@ -82,8 +82,8 @@
     "UNBOUND_DEFAULT_PACKS": "Default Packs",
     "UNBOUND_PACK_NOT_INSTALLED_TITLE": "Pack not installed",
     "UNBOUND_PACK_NOT_INSTALLED_DESC": "The selected icon pack {pack} is not installed. To modify Discord's icons, please download and install the pack. Icons will remain unchanged until the selected pack is installed.",
-    "UNBOUND_DOWNLOAD_PACK_FETCHING": "Fetching...",
-    "UNBOUND_DOWNLOAD_PACK_PROGRESS": "Downloaded {progress}",
+    "UNBOUND_DOWNLOAD_PACK_FETCHING": "Fetching metadata...",
+    "UNBOUND_DOWNLOAD_PACK_PROGRESS": "Fetched {progress}",
     "UNBOUND_DOWNLOAD_PACK_DONE": "Finished!",
     "UNBOUND_ICON_PACK_TITLE": "Icon Pack",
     "UNBOUND_PACK_APPLYING_DESC": "Applying pack {pack}..."
