@@ -78,6 +78,7 @@
     "UNBOUND_UNINSTALL": "Uninstall",
     "UNBOUND_UPDATER": "Updater",
     "UNBOUND_LOGS_EMPTY": "There are no logs at the moment.\nPlease come back later.",
+    "UNBOUND_ICONS": "Icons",
     "UNBOUND_MANAGE_ICONS": "Manage Icons",
     "UNBOUND_DEFAULT_PACKS": "Default Packs",
     "UNBOUND_PACK_NOT_INSTALLED_TITLE": "Pack not installed",
