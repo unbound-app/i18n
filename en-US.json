@@ -1,6 +1,7 @@
 {
     "UNBOUND_ADDON_FAILED": "Failed to load addon: {error}",
     "UNBOUND_ADDON_NO_DESCRIPTION": "No description provided.",
+    "UNBOUND_ADDON_VALID_MANIFEST": "Please enter a valid {type} manifest URL below:",
     "UNBOUND_ADDON_INSTALLED_TITLE": "Installed {type}!",
     "UNBOUND_ADDON_INSTALLED_DESC": "Successfully installed {name}.",
     "UNBOUND_ADDONS_EMPTY": "You haven't installed any {type} yet.\nLook for what's shiny and come back here to try it out!",
