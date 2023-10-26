@@ -26,7 +26,7 @@
     "UNBOUND_ERROR_BOUNDARY_ACTION_COMPONENT": "Component",
     "UNBOUND_ERROR_BOUNDARY_ACTION_STACK_TRACE": "Stack Trace",
     "UNBOUND_GENERAL": "General",
-    "UNBOUND_STYLING": "Styling",
+    "UNBOUND_DESIGN": "Design",
     "UNBOUND_INSTALL_TITLE": "Install {type}",
     "UNBOUND_INSTALL": "Install",
     "UNBOUND_LOADER_CUSTOM_BUNDLE": "Custom Bundle URL",
