@@ -110,5 +110,6 @@
     "UNBOUND_ONBAORDING_PROTOCOLS_SUBTITLE": "These custom protocols can perform multiple actions, including installing and uninstalling addons. For more information on them (aswell as how to make your own), please check the documentation!",
     "UNBOUND_ONBOARDING_JOIN_TITLE": "Join Unbound's Discord Server...",
     "UNBOUND_ONBOARDING_JOIN_SUBTITLE": "To install more addons (such as Themes, Icon Packs, and Fonts) or to get support, you should join our Discord server.",
-    "UNBOUND_ONBOARDING_FINISH_TITLE": "Enjoy using Unbound!"
+    "UNBOUND_ONBOARDING_FINISH_TITLE": "Enjoy using Unbound!",
+    "UNBOUND_SKIP_ONBOARDING": "Skip Onboarding"
 }
