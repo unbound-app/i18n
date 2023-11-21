@@ -88,5 +88,9 @@
     "UNBOUND_INSTALLED_THEMES": "Installed Themes",
     "UNBOUND_DISCORD_SERVER": "Discord Server",
     "UNBOUND_GITHUB": "GitHub",
-    "UNBOUND_TWITTER": "Twitter"
+    "UNBOUND_TWITTER": "Twitter",
+    "UNBOUND_LINKS": "Links",
+    "UNBOUND_FORCE_GARBAGE_COLLECTION": "Force Garbage Collection",
+    "UNBOUND_GARBAGE_COLLECTION": "Garbage Collection",
+    "UNBOUND_GARBAGE_COLLECTION_TOAST": "Successfully freed up unused memory."
 }
