@@ -83,5 +83,10 @@
     "UNBOUND_DESCRIPTION": "Description",
     "UNBOUND_AUTHORS": "Authors",
     "UNBOUND_VERSION": "Version",
-    "UNBOUND_REVERSED": "Reversed"
+    "UNBOUND_REVERSED": "Reversed",
+    "UNBOUND_INSTALLED_PLUGINS": "Installed Plugins",
+    "UNBOUND_INSTALLED_THEMES": "Installed Themes",
+    "UNBOUND_DISCORD_SERVER": "Discord Server",
+    "UNBOUND_GITHUB": "GitHub",
+    "UNBOUND_TWITTER": "Twitter"
 }
