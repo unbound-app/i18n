@@ -89,6 +89,7 @@
     "UNBOUND_TWITTER": "Twitter",
     "UNBOUND_LINKS": "Links",
     "UNBOUND_JOIN_SERVER": "Join Server",
+    "UNBOUND_DOCUMENTATION": "Documentation",
     "UNBOUND_FORCE_GARBAGE_COLLECTION": "Force Garbage Collection",
     "UNBOUND_GARBAGE_COLLECTION": "Garbage Collection",
     "UNBOUND_GARBAGE_COLLECTION_TOAST": "Freed up unused memory.",
