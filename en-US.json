@@ -53,6 +53,7 @@
     "UNBOUND_THEMES": "Themes",
     "UNBOUND_TOAST_DURATION_DESC": "This is the default duration that a toast will show for. If an addon developer provides their own duration while showing a toast, that will be used instead.",
     "UNBOUND_TOAST_DURATION": "Toast Duration",
+    "UNBOUND_TOAST_BACKGROUND_OPACITY": "Background Opacity",
     "UNBOUND_TOAST_SETTINGS": "Toast Settings",
     "UNBOUND_TOASTS_ANIMATIONS_DESC": "You may choose to disable animations for toasts shown by addons.",
     "UNBOUND_TOASTS_ANIMATIONS": "Animations",
