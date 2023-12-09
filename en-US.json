@@ -119,5 +119,6 @@
     "UNBOUND_ONBOARDING_JOIN_TITLE": "Join Unbound's Discord Server...",
     "UNBOUND_ONBOARDING_JOIN_SUBTITLE": "To install more addons (such as Themes, Icon Packs, and Fonts) or to get support, you should join our Discord server.",
     "UNBOUND_ONBOARDING_FINISH_TITLE": "Enjoy using Unbound!",
-    "UNBOUND_SKIP_ONBOARDING": "Skip Onboarding"
+    "UNBOUND_SKIP_ONBOARDING": "Skip Onboarding",
+    "UNBOUND_TOGGLE": "Toggle"
 }
