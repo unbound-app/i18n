@@ -121,7 +121,7 @@
     "UNBOUND_UNINSTALL": "Uninstall",
     "UNBOUND_UNINSTALL_ADDON": "Uninstall {type}",
     "UNBOUND_UNINSTALL_ADDON_DESC": "Are you sure you want to uninstall **{name}**? This action is irreversible.",
-    "UNBOUND_UPDATER": "Updater",
+    "UNBOUND_SOURCES": "Sources",
     "UNBOUND_VERSION": "Version",
     "UNBOUND_WELCOME_SUBTITLE": "A Discord mobile client modification aimed at providing the user control, stability and customizability.",
     "UNBOUND_WELCOME_TITLE": "Welcome to Unbound!",
