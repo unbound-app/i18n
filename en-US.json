@@ -63,7 +63,6 @@
     "UNBOUND_LOGGING_DEPTH": "Inspection Depth",
     "UNBOUND_LOGGING_DEPTH_DESC": "{depth} nested object(s) deep",
     "UNBOUND_LOGS_EMPTY": "There are no logs at the moment.\nPlease come back later.",
-    "UNBOUND_MANAGE_ICONS": "Manage Icons",
     "UNBOUND_MISC": "Misc",
     "UNBOUND_MODULE_SETTINGS": "Module Settings",
     "UNBOUND_NAME": "Name",
@@ -127,5 +126,7 @@
     "UNBOUND_WELCOME_TITLE": "Welcome to Unbound!",
     "UNBOUND_ORDER_ADDONS": "Order {type}",
     "UNBOUND_SOURCES_REFRESH": "Refresh sources",
-    "UNBOUND_ADDON_INSTALLED_AMOUNT": "{amount} installed"
+    "UNBOUND_ADDON_INSTALLED_AMOUNT": "{amount} installed",
+    "UNBOUND_ALL_ADDONS": "All Addons",
+    "UNBOUND_MANAGE_TYPE": "Manage {type}"
 }
