@@ -125,5 +125,6 @@
     "UNBOUND_VERSION": "Version",
     "UNBOUND_WELCOME_SUBTITLE": "A Discord mobile client modification aimed at providing the user control, stability and customizability.",
     "UNBOUND_WELCOME_TITLE": "Welcome to Unbound!",
-    "UNBOUND_ORDER_ADDONS": "Order {type}"
+    "UNBOUND_ORDER_ADDONS": "Order {type}",
+    "UNBOUND_SOURCES_REFRESH": "Refresh sources"
 }
