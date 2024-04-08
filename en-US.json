@@ -89,6 +89,7 @@
     "UNBOUND_RECOVERY_MODE_DESC": "Avoids loading addons to prevent crashing.",
     "UNBOUND_RECOVERY_MODE_ENABLED": "Recovery mode is enabled, all addons have been disabled to aid you in the diagnosis of issues.",
     "UNBOUND_REFETCH": "Refetch",
+    "UNBOUND_REFETCH_ADDON": "Refetch {name}",
     "UNBOUND_RESTART": "Restart",
     "UNBOUND_REVERSED": "Reversed",
     "UNBOUND_SEARCH": "Search {type}...",
@@ -139,5 +140,6 @@
     "UNBOUND_INSTALLED_ADDONS_INFO": "Addons you have installed that are also in {source}",
     "UNBOUND_BY_AUTHORS": "By {authors}",
     "UNBOUND_ADDON_NO_README": "{name} has no extra information.",
-    "UNBOUND_UPDATE": "Update"
+    "UNBOUND_UPDATE": "Update",
+    "UNBOUND_VIEW_MANIFEST": "View Manifest"
 }
