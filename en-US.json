@@ -131,5 +131,5 @@
     "UNBOUND_MANAGE_TYPE": "Manage {type}",
     "UNBOUND_VIEW_ALL": "View all addons in {source}",
     "UNBOUND_ADDONS": "Addons",
-    "UNBOUND_SOURCE_NO_ADDONS": "Could not find any addons in {source}"
+    "UNBOUND_SOURCE_EMPTY": "Could not find any addons in {source}"
 }
