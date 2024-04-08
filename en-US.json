@@ -138,5 +138,6 @@
     "UNBOUND_INSTALLED_ADDONS": "Installed Addons",
     "UNBOUND_INSTALLED_ADDONS_INFO": "Addons you have installed that are also in {source}",
     "UNBOUND_BY_AUTHORS": "By {authors}",
-    "UNBOUND_ADDON_NO_README": "{name} has no extra information."
+    "UNBOUND_ADDON_NO_README": "{name} has no extra information.",
+    "UNBOUND_UPDATE": "Update"
 }
