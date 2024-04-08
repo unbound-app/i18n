@@ -141,5 +141,7 @@
     "UNBOUND_BY_AUTHORS": "By {authors}",
     "UNBOUND_ADDON_NO_README": "{name} has no extra information.",
     "UNBOUND_UPDATE": "Update",
-    "UNBOUND_VIEW_MANIFEST": "View Manifest"
+    "UNBOUND_VIEW_MANIFEST": "View Manifest",
+    "UNBOUND_INSTALL_ADDON": "Install {type}",
+    "UNBOUND_UPDATE_ADDON": "Update {type}"
 }
