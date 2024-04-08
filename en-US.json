@@ -132,5 +132,6 @@
     "UNBOUND_VIEW_ALL": "View all addons in {source}",
     "UNBOUND_ADDONS": "Addons",
     "UNBOUND_SOURCE_EMPTY": "Could not find any addons in {source}",
-    "UNBOUND_INFORMATION": "Information"
+    "UNBOUND_INFORMATION": "Information",
+    "UNBOUND_INSTALLED_ADDONS": "Installed {type}"
 }
