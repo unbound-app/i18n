@@ -89,7 +89,7 @@
     "UNBOUND_RECOVERY_MODE_DESC": "Avoids loading addons to prevent crashing.",
     "UNBOUND_RECOVERY_MODE_ENABLED": "Recovery mode is enabled, all addons have been disabled to aid you in the diagnosis of issues.",
     "UNBOUND_REFETCH": "Refetch",
-    "UNBOUND_REFETCH_ADDON": "Refetch {name}",
+    "UNBOUND_REFETCH_ADDON": "Refetch {type}",
     "UNBOUND_RESTART": "Restart",
     "UNBOUND_REVERSED": "Reversed",
     "UNBOUND_SEARCH": "Search {type}...",
