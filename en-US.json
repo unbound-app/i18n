@@ -134,6 +134,6 @@
     "UNBOUND_ADDONS": "Addons",
     "UNBOUND_SOURCE_EMPTY": "Could not find any addons in {source}",
     "UNBOUND_INFORMATION": "Information",
-    "UNBOUND_INSTALLED_ADDONS": "Installed addons",
+    "UNBOUND_INSTALLED_ADDONS": "Installed Addons",
     "UNBOUND_INSTALLED_ADDONS_INFO": "Addons you have installed that are also in {source}"
 }
