@@ -143,5 +143,6 @@
     "UNBOUND_UPDATE": "Update",
     "UNBOUND_VIEW_MANIFEST": "View Manifest",
     "UNBOUND_INSTALL_ADDON": "Install {type}",
-    "UNBOUND_UPDATE_ADDON": "Update {type}"
+    "UNBOUND_UPDATE_ADDON": "Update {type}",
+    "UNBOUND_BUNDLE": "Bundle"
 }
