@@ -151,5 +151,6 @@
     "UNBOUND_VIEW_UPDATES": "Tap this to view the addons and update them",
     "UNBOUND_COLLAPSE": "Collapse",
     "UNBOUND_COLLAPSE_AUTHORS": "Collapse authors",
-    "UNBOUND_TAGS": "Tags"
+    "UNBOUND_TAGS": "Tags",
+    "UNBOUND_NUMBER_MORE": "{number} more"
 }
