@@ -3,7 +3,7 @@
     "UNBOUND_ADDON_FAILED": "Failed to load addon: {error}",
     "UNBOUND_ADDON_NO_DESCRIPTION": "No description provided.",
     "UNBOUND_ADDON_VALID_MANIFEST": "Please enter a valid {type} manifest URL below:",
-    "UNBOUND_ADDONS_EMPTY": "Could not find any {type}s.\nMaybe try installing some?",
+    "UNBOUND_ADDONS_EMPTY": "Could not find any {type}.\nMaybe try installing some?",
     "UNBOUND_ASSET_BROWSER": "Asset Browser",
     "UNBOUND_AUTHORS": "Authors",
     "UNBOUND_CHANGE_RESTART": "Restart Required",
