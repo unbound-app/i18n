@@ -152,5 +152,6 @@
     "UNBOUND_COLLAPSE": "Collapse",
     "UNBOUND_COLLAPSE_AUTHORS": "Collapse authors",
     "UNBOUND_TAGS": "Tags",
-    "UNBOUND_BY": "By"
+    "UNBOUND_BY": "By",
+    "UNBOUND_UPDATE_ADDONS": "Update Addons"
 }
