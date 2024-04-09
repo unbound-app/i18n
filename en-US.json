@@ -146,5 +146,10 @@
     "UNBOUND_UPDATE_ADDON": "Update {type}",
     "UNBOUND_BUNDLE": "Bundle",
     "UNBOUND_ADDON_FROM_SOURCE": "{name} is from {source}",
-    "UNBOUND_RETURN_TO_SOURCE": "Tap this to return to {source}"
+    "UNBOUND_RETURN_TO_SOURCE": "Tap this to return to {source}",
+    "UNBOUND_SOURCE_ADDONS_UPDATES": "{number} {plural, select, true {addons have updates} false {addon has an update}}",
+    "UNBOUND_VIEW_UPDATES": "Tap this to view the addons and update them",
+    "UNBOUND_COLLAPSE": "Collapse",
+    "UNBOUND_COLLAPSE_AUTHORS": "Collapse authors",
+    "UNBOUND_TAGS": "Tags"
 }
