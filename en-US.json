@@ -3,7 +3,7 @@
     "UNBOUND_ADDON_FAILED": "Failed to load addon: {error}",
     "UNBOUND_ADDON_NO_DESCRIPTION": "No description provided.",
     "UNBOUND_ADDON_VALID_MANIFEST": "Please enter a valid {type} manifest URL below:",
-    "UNBOUND_ADDONS_EMPTY": "You haven't installed any {type} yet.\nLook for what's shiny and come back here to try it out!",
+    "UNBOUND_ADDONS_EMPTY": "Could not find any {type}s.\nMaybe try installing some?",
     "UNBOUND_ASSET_BROWSER": "Asset Browser",
     "UNBOUND_AUTHORS": "Authors",
     "UNBOUND_CHANGE_RESTART": "Restart Required",
@@ -153,6 +153,5 @@
     "UNBOUND_COLLAPSE_AUTHORS": "Collapse authors",
     "UNBOUND_TAGS": "Tags",
     "UNBOUND_BY": "By",
-    "UNBOUND_UPDATE_ADDONS": "Update Addons",
-    "UNBOUND_ADDON_EMPTY": "Could not find any {type}s."
+    "UNBOUND_UPDATE_ADDONS": "Update Addons"
 }
