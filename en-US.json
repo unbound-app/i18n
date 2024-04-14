@@ -153,5 +153,8 @@
     "UNBOUND_COLLAPSE_AUTHORS": "Collapse authors",
     "UNBOUND_TAGS": "Tags",
     "UNBOUND_BY": "By",
-    "UNBOUND_UPDATE_ADDONS": "Update Addons"
+    "UNBOUND_UPDATE_ADDONS": "Update Addons",
+    "UNBOUND_CHANGELOG": "Changelog",
+    "UNBOUND_ADDON_NO_CHANGELOG": "{name} has no changelog.",
+    "UNBOUND_SUGGESTED": "Suggested"
 }
