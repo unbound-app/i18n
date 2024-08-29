@@ -3,5 +3,5 @@ import enGB from './en-GB.json';
 
 export default {
 	'en-US': enUS,
-	'en-GB': enGB
+	'en-GB': enGB,
 };
