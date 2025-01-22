@@ -139,6 +139,7 @@
 	"UNBOUND_THEME_GET_DESC": "Would you like to create, edit, or import a theme?",
 	"UNBOUND_THEME_GET_OPTION_CREATE": "Editor",
 	"UNBOUND_THEME_GET_OPTION_IMPORT": "Import",
+	"UNBOUND_CANCEL": "Cancel",
 	"UNBOUND_TOASTS": "Toasts",
 	"UNBOUND_TOASTS_ANIMATIONS": "Animations",
 	"UNBOUND_TOASTS_ANIMATIONS_DESC": "You may choose to disable animations for toasts shown by addons.",
