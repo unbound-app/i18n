@@ -7,5 +7,5 @@ import enGB from '@i18n/en-GB.json';
 export default {
 	'en-US': enUS,
 	'en-GB': enGB,
-	'es-ES.json': esES,
+	'es-ES': esES,
 };
