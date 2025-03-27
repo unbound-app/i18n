@@ -49,7 +49,6 @@
 	"UNBOUND_CACHE_CLEARED_DESCRIPTION": "Por favor, reinicia la aplicación para volver a poblar la caché.",
 	"UNBOUND_ERROR_BOUNDARY_DESC": "Módulo de recuperación ante fallos. No lo desactives si eres un usuario estándar.",
 	"UNBOUND_ERROR_BOUNDARY_OUTLINE_TITLE": "Aquí hay un desglose detallado de lo sucedido:",
-	"UNBOUND_ERROR_BOUNDARY_TRIGGER_DESC": "Activa el límite de errores intencionalmente para visualizar sus efectos.",
 	"UNBOUND_ERROR_BOUNDARY_TRIGGER_TITLE": "Activar Límite de Errores",
 	"UNBOUND_STAFF_MODE_DESC": "Te permite acceder a funciones exclusivas para el personal. La sección de personal se encuentra al final de la página de configuraciones.",
 	"UNBOUND_STAFF_MODE_TITLE": "Modo de Personal",
